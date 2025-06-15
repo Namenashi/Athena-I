@@ -50,7 +50,7 @@ Since I couldn't solve these fundamental problems caused by the limitations of m
 
 ### About Robot Specs and Component Selection
 - Will uns ESP32.
-- The robot's total weight is conservatively estimated at around 30kg for now.
+- The robot's total weight is conservatively estimated at around 10kg for now.
 Using solid rubber tires (Vollgummireifen) for electric scooters as tires. Accordingly, the wheels will also be those made for electric scooters (specifically rear wheels).
 - Since these aren't products made with the premise of being used as drive wheels, I plan to use keyless bushes to connect them to the shaft and transmit power.
 - The motor will be a stepper motor with specs: 57MM44A76, step angle 1.8°, rated current 4.4A, holding torque 2.3Nm, used with microstep 8 setting. This will enable control in 0.225° increments.
